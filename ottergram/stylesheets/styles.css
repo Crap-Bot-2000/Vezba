@@ -21,7 +21,7 @@ body{
   display: flex;
   flex-direction: column;
   font-size: 10px;
-  background: rgb(149, 194, 215);
+  background: rgb(193, 27, 57);
 }
 
 a {
@@ -36,7 +36,7 @@ html, body {
   position: absolute;
   bottom: -16px;
   left: 4px;
-  
+
   font-family: airstreamregular;
   color: white;
   font-size: 40px;
@@ -71,10 +71,11 @@ html, body {
 
 .logo-text {
   text-align: center;
-  background: white;
+  background: rgba(0, 0, 0, 0.9);
   text-transform: uppercase;
   font-size: 37px;
   font-family: lakeshore;
+  color: white;
 }
 
 
@@ -95,7 +96,7 @@ html, body {
   min-width: 120px;
   width: 120px;
   border: 1px solid rgb(100%, 100%, 100%);
-  border: 1px solid rgba(100%, 100%, 100%, 0.8);
+  border: 1px solid #000000cc;
 }
 
 .thumbnail-image {
